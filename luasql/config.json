@@ -1,0 +1,4 @@
+{
+    "name" : "luasql",
+    "words" : [ "require[%s%(\"']+luasql%.%w+[%)\"']" ]
+}

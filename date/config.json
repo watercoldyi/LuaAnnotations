@@ -1,0 +1,4 @@
+{
+    "name" : "luadate",
+    "words" : [ "require[%s%(\"']+date[%)\"']" ]
+}

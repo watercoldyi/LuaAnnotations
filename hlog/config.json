@@ -1,0 +1,4 @@
+{
+    "name" : "hlog",
+    "words" : [ "require[%s%(\"']+hlog[%)\"']" ]
+}

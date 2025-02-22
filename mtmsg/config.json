@@ -1,0 +1,4 @@
+{
+    "name" : "mtmsg",
+    "words" : [ "require[%s%(\"']+mtmsg[%)\"']" ]
+}

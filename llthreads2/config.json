@@ -1,0 +1,4 @@
+{
+    "name" : "llthreads2",
+    "words" : [ "require[%s%(\"']+llthreads2[%)\"']" ]
+}
